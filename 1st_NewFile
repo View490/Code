@@ -1,0 +1,7 @@
+New File Testing
+line2
+line3
+testing for loop
+for i in range(1,10):
+  print(i**i)
+ 
